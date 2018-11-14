@@ -1,0 +1,109 @@
+manifest = "bc5e8e9bfd8db8813f3598b110df1547b3c92275043e876b652b94b32e71508b"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-bind"
+target = "//:bind"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-concept_check"
+target = "//:concept-check"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-config"
+target = "//:config"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-integer"
+target = "//:integer"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-iterator"
+target = "//:iterator"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-mpl"
+target = "//:mpl"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-numeric_conversion"
+target = "//:numeric-conversion"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-static_assert"
+target = "//:static-assert"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-utility"
+target = "//:utility"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/libjpeg-turbo"
+target = "//:jpeg-turbo"
+
+[[lock]]
+name = "github.com/buckaroo-pm/boost-assert"
+revision = "cae7816110ba208a2290d02d128594e8809c9075"
+
+[[lock]]
+name = "github.com/buckaroo-pm/boost-bind"
+revision = "6dea96374750d4e0dac3aefc1bffa4bdc49cf383"
+
+[[lock]]
+name = "github.com/buckaroo-pm/boost-concept_check"
+revision = "19ec70c0e397c0096892365e1b3194dce5a25a54"
+
+[[lock]]
+name = "github.com/buckaroo-pm/boost-config"
+revision = "e60ff9d2778e3d2a6969859783a7c5bcc424f9a2"
+
+[[lock]]
+name = "github.com/buckaroo-pm/boost-core"
+revision = "10b589cb4aea4ca823237059f104cbfdd09b0f0e"
+
+[[lock]]
+name = "github.com/buckaroo-pm/boost-detail"
+revision = "ed1cc1b88cae7db1148d92e57150d9e103b8b636"
+
+[[lock]]
+name = "github.com/buckaroo-pm/boost-exception"
+revision = "1795a6e9756f4d9ac60d43e2b9b07ec7ddfdbfb7"
+
+[[lock]]
+name = "github.com/buckaroo-pm/boost-integer"
+revision = "18829c9da323d9e1be6e379146f93bae768a5fac"
+
+[[lock]]
+name = "github.com/buckaroo-pm/boost-iterator"
+revision = "1808254c6ea2ce553fe5777e3f6fd434752c2f41"
+
+[[lock]]
+name = "github.com/buckaroo-pm/boost-mpl"
+revision = "22e6f9c6c489dafb0e1b3e03ae44ade21cfe07a1"
+
+[[lock]]
+name = "github.com/buckaroo-pm/boost-numeric_conversion"
+revision = "5718497ffed7c837cb34dc3ff64e80b50abfaed3"
+
+[[lock]]
+name = "github.com/buckaroo-pm/boost-preprocessor"
+revision = "a70772bbd315eb597c3f1e359af742dde46a6f37"
+
+[[lock]]
+name = "github.com/buckaroo-pm/boost-static_assert"
+revision = "eeba9df6e3dc006544d6e8a93db7f85bb8a72e07"
+
+[[lock]]
+name = "github.com/buckaroo-pm/boost-throw_exception"
+revision = "788503e2365554d1860c6d2043999e3430d1f7a5"
+
+[[lock]]
+name = "github.com/buckaroo-pm/boost-type_traits"
+revision = "19b9862c93b0796e346876782d217fbc33600c27"
+
+[[lock]]
+name = "github.com/buckaroo-pm/boost-utility"
+revision = "0ca0a209a2977107e65eb5efcd27b305d8a9cf42"
+
+[[lock]]
+name = "github.com/buckaroo-pm/libjpeg-turbo"
+revision = "09cc971848d5dfb9d4da8b4d7177a83345e60ea4"

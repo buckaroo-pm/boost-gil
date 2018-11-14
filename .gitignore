@@ -17,3 +17,12 @@ stdcerr
 
 # JetBrains
 /.idea
+
+# Buck
+.buckd
+buck-out
+.buckconfig.local
+cache
+buckaroo
+buckaroo-packages
+BUCKAROO_DEPS

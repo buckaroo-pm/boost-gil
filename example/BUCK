@@ -1,0 +1,29 @@
+cxx_binary(
+  name = 'convolution', 
+  srcs = [
+    'convolution.cpp', 
+  ], 
+  deps = [
+    '//:gil', 
+  ], 
+)
+
+cxx_binary(
+  name = 'mandelbrot', 
+  srcs = [
+    'mandelbrot.cpp', 
+  ], 
+  deps = [
+    '//:gil', 
+  ], 
+)
+
+cxx_binary(
+  name = 'histogram', 
+  srcs = [
+    'histogram.cpp', 
+  ], 
+  deps = [
+    '//:gil', 
+  ], 
+)
