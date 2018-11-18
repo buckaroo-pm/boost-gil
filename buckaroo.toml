@@ -37,5 +37,5 @@ package = "github.com/buckaroo-pm/boost-utility"
 version = "branch=master"
 
 [[dependency]]
-package = "github.com/buckaroo-pm/libjpeg-turbo"
+package = "github.com/buckaroo-pm/luadist-libjpeg"
 version = "branch=master"

@@ -21,6 +21,7 @@ stdcerr
 # Buck
 .buckd
 buck-out
+.buckconfig.d
 .buckconfig.local
 cache
 buckaroo

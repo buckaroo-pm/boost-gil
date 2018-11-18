@@ -1,23 +1,7 @@
+[project]
+  ignore = .git
+
 [cxx]
-  cxxflags = "-std=c++14"
+  cxxflags = -std=c++14
   should_remap_host_platform = true
   untracked_headers = warn
-
-[repositories]
-  buckaroo.github.buckaroo-pm.boost-assert = ./buckaroo/github/buckaroo-pm/boost-assert
-  buckaroo.github.buckaroo-pm.boost-bind = ./buckaroo/github/buckaroo-pm/boost-bind
-  buckaroo.github.buckaroo-pm.boost-concept_check = ./buckaroo/github/buckaroo-pm/boost-concept_check
-  buckaroo.github.buckaroo-pm.boost-config = ./buckaroo/github/buckaroo-pm/boost-config
-  buckaroo.github.buckaroo-pm.boost-core = ./buckaroo/github/buckaroo-pm/boost-core
-  buckaroo.github.buckaroo-pm.boost-detail = ./buckaroo/github/buckaroo-pm/boost-detail
-  buckaroo.github.buckaroo-pm.boost-exception = ./buckaroo/github/buckaroo-pm/boost-exception
-  buckaroo.github.buckaroo-pm.boost-integer = ./buckaroo/github/buckaroo-pm/boost-integer
-  buckaroo.github.buckaroo-pm.boost-iterator = ./buckaroo/github/buckaroo-pm/boost-iterator
-  buckaroo.github.buckaroo-pm.boost-mpl = ./buckaroo/github/buckaroo-pm/boost-mpl
-  buckaroo.github.buckaroo-pm.boost-numeric_conversion = ./buckaroo/github/buckaroo-pm/boost-numeric_conversion
-  buckaroo.github.buckaroo-pm.boost-preprocessor = ./buckaroo/github/buckaroo-pm/boost-preprocessor
-  buckaroo.github.buckaroo-pm.boost-static_assert = ./buckaroo/github/buckaroo-pm/boost-static_assert
-  buckaroo.github.buckaroo-pm.boost-throw_exception = ./buckaroo/github/buckaroo-pm/boost-throw_exception
-  buckaroo.github.buckaroo-pm.boost-type_traits = ./buckaroo/github/buckaroo-pm/boost-type_traits
-  buckaroo.github.buckaroo-pm.boost-utility = ./buckaroo/github/buckaroo-pm/boost-utility
-  buckaroo.github.buckaroo-pm.libjpeg-turbo = ./buckaroo/github/buckaroo-pm/libjpeg-turbo
