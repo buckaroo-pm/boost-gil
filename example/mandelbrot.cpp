@@ -17,7 +17,9 @@
 
 #include <boost/gil/image.hpp>
 #include <boost/gil/typedefs.hpp>
-#include <boost/gil/extension/io/jpeg_io.hpp>
+// #include <boost/gil/extension/io/jpeg_io.hpp>
+#include <boost/gil/extension/io/jpeg.hpp>
+#include <boost/gil/extension/io/jpeg/old.hpp>
 
 using namespace boost::gil;
 

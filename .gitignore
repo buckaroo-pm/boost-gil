@@ -23,7 +23,9 @@ stdcerr
 buck-out
 .buckconfig.d
 .buckconfig.local
+.buckconfig.d
 cache
 buckaroo
 buckaroo-packages
 BUCKAROO_DEPS
+buckaroo_macros.bzl

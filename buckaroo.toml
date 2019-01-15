@@ -1,15 +1,19 @@
 targets = [ "//:gil" ]
 
 [[dependency]]
+package = "github.com/buckaroo-pm/boost-algorithm"
+version = "branch=master"
+
+[[dependency]]
 package = "github.com/buckaroo-pm/boost-bind"
 version = "branch=master"
 
 [[dependency]]
-package = "github.com/buckaroo-pm/boost-config"
+package = "github.com/buckaroo-pm/boost-concept_check"
 version = "branch=master"
 
 [[dependency]]
-package = "github.com/buckaroo-pm/boost-concept_check"
+package = "github.com/buckaroo-pm/boost-config"
 version = "branch=master"
 
 [[dependency]]
