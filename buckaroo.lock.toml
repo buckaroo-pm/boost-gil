@@ -50,7 +50,7 @@ revision = "783ec0afe46d65f8cfdb558e16f25adc02797b3c"
 
 [lock."github.com/buckaroo-pm/boost-concept_check"]
 versions = [ "branch=master" ]
-revision = "5a8bb5676742a02b9e2d343ecec66639da9deb3e"
+revision = "4dcd765d7933cb9419d9120cbf8df7d83e38f9db"
 
 [lock."github.com/buckaroo-pm/boost-config"]
 versions = [ "branch=master" ]
