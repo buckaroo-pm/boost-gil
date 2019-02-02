@@ -46,7 +46,7 @@ revision = "f9d6a7b63ef2902777b6078fdebc54e7a57aac03"
 
 [lock."github.com/buckaroo-pm/boost-bind"]
 versions = [ "branch=master" ]
-revision = "9ad7a5ff3b85224e2235657dbb9f48e8d548b43c"
+revision = "cfad39eb7381d02a0914f1c939140aa4f8195a1e"
 
 [lock."github.com/buckaroo-pm/boost-concept_check"]
 versions = [ "branch=master" ]
